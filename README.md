@@ -12,8 +12,8 @@
 |**Template Used**<br>simple|
 |**Service Type**<br>None|
 |**Service URL**<br>N/A
-|**Module Name**<br>agregacao|
-|**Application Title**<br>Agregacao|
+|**Module Name**<br>events|
+|**Application Title**<br>Events|
 |**Namespace**<br>treinaui5|
 |**UI5 Theme**<br>sap_horizon|
 |**UI5 Version**<br>1.109.3|
