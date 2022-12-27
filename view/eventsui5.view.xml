@@ -1,0 +1,13 @@
+<mvc:View controllerName="treinaui5.eventosui5.controller.eventsui5"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <content>
+            <Button id="_IDGenButton1" text="Attach" press="ligaDarNota"></Button>
+            <Button id="_IDGenButton2" text="Detach" press="desligaDarNota"></Button>
+
+            <!-- <RatingIndicator id="_IDGenRatingIndicator1" change="onChange" ></RatingIndicator> -->
+            <RatingIndicator id="notas"></RatingIndicator>
+        </content>
+    </Page>
+</mvc:View>
