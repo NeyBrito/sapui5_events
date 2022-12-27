@@ -1,6 +1,6 @@
 # Treinamento SAP UI5 !
 
-<img src="https://raw.githubusercontent.com/SAP/ui5-tooling/main/docs/images/UI5_logo_wide.png" alt="SAPUI5" style="zoom: 10%;" />
+<img src=![UI5_logo_wide](https://user-images.githubusercontent.com/35903451/209718843-ce1f76a3-5a75-47a0-b339-319de251bd30.png) alt="SAPUI5" style="zoom: 10%;" />
 
 ## Application Details
 |               |
@@ -32,7 +32,7 @@ A Fiori application.
 ```
     npm start
 ```
-![UI5_logo_wide](https://user-images.githubusercontent.com/35903451/209718843-ce1f76a3-5a75-47a0-b339-319de251bd30.png)
+
 
 #### Pre-requisites:
 
